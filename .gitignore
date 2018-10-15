@@ -1,0 +1,6 @@
+.DS_Store
+[Rr]aw Images/
+[Ii]mg/
+[Tt]esting/
+node_modules/
+*.log
